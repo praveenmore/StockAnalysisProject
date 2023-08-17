@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "python-automation-program-gs",
+  "private_key_id": "89544358d26f9bdb7464f79c45ca42a289c2342f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPusb++qjQfcfj\nN0OVzR9Sq+2W2cYXpxa4whNvVeZpUb4GEq3VoVGl1NNBs8DBb7CJ/3ucZojbggJh\nimLOMT2q3gQbS+ezk6Snu4PjKvpcHJziYA0OrwqPsGHgfvBcuFjY/yf5dOLzbHqp\nfe4rZ8OJmp751fWODomDJ0w3hH/nLL1U2wKAYN25ZSbmZdcJswTm5reK0rY2GQRT\nJfAFBdd/9OBFK+73U4xxfwdc9v7wzIIYyI5GMGjg3I/2V5lqqLqKGF93OR8vYDgN\nk3sjF33gC4gjkfifVzaTAUlhcifDXmnzAiLw9Cxe3GVRINXo5MBEU4AzZpAUE8sr\nM483s557AgMBAAECggEAPibzsEmeJddkbaLU2WbIluszCJ3664vGPBxxRTAN4vge\no2GGWnNMYxIU7UUTiKzaxMdInEh/bTHudXG601efTFbmIqao2i10J+1ubhMnWlUD\nSaYUcg7EWa6b8lf4ob1UdASP2M70soGEB99SWfFPa4X0R+sQ7+KAmVmyL7A4tpk9\njOYSv3K2VWPlsorjUrb8V9Y9kKZr2jDevybyAazM7X8sQ1/nvqHuOQxYH4KK4oUq\nEmyavvoZhNUdwA544Ae+/x6fGjXeBjvaJ+FQCdF8jsNzEQIHiiBaPdCBGGANIH3x\n7/k8fkGQe7sG6JLcLkwwYyfueG8mJKw5/rFmQd47mQKBgQDz2WpRVjMy/QTPX5Uu\nKj2F/DB6eiwbl9soqYKoksKCase+TQolA914FPpTORzHcM8yZAvkBnOVBilO0tYi\nk7s+nCP0y6tdP5jqPpZ9RZoddTZ+0K6Yxy/s3kDnZXPPjDPvAe7+1SSNDogdJPEM\n6kxjPUzR5A66ee+Xy6KA+m132QKBgQDaFJzsIUMPsx+a0NbI0zV1HUtn+Txe7uO0\nJKa+RsizOqGjG5UJCPYjDJdiSkQoVB2aY6It+oGHfJZhiKhF1DXlfEjy1CuEllR3\n+Zhx/85USr3TavzMqr247JmYieElUwg3gsJwQwd4jEe9gGrqv2NrsNybkgeD+ycI\nE1mBPggIcwKBgF9EXakRSEdvWmW6LgovLoIeGMKA4KKXHWQxdX5ud9eD6C2M4526\neNflOjcxZPD2PbyuIYcgjh92nMTS0h4IIWtAjTuiJnzzz8YUVa7zdlZz6Kp61PuT\nNkIQQsMke65mVBPYaYrdsr35I2xfdl1ZXCaZWF3X/3kTEmv3frFtJT9hAoGAGVmA\nDCqpou+NYu+Xp+x1MFHhbAqaq+ZU7aG9CC0uMzdDhrQ0FMLH6bcS+cfsOEvezQ17\n0qBl4hvnVxsNhGBwi2ZxDFkBXf4jf3ax875qe33cpvCuxhOqzg4ipIqSc0Y9lEZM\n18PS4H5d8Hc29mac5e2/Fw5YdU0CcnvdUZqmUGUCgYBfXqiUodKAqB+0kRlGYPkL\nuAf7DeIAUq150j9vHkWz5UtYrNCGsRUr1A36xC9lp85Ix4p3krczNd1a22Bc3rjb\nuZ0SBiGhSx9+AotX12LJMAEuTUuMkVQ6826kWr9Zw8OTqwLldiJLE+LSFUJ/r3rB\nd1VTYNbmUPyXaOdmbyn71Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-automation-program-gs@python-automation-program-gs.iam.gserviceaccount.com",
+  "client_id": "113303194405533035624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-automation-program-gs%40python-automation-program-gs.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
